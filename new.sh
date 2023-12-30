@@ -22,7 +22,7 @@ echo
 echo $i"────────────────────────────────   ─────"
 echo $i"|"$me"1"$i" |"$cy" BRUTEFORCE FB PYTHON     "$i"|"$i"    |"$cy" D"$i" |"
 echo $i"|"$me"2"$i" |"$cy" BRUTEFORCE FB SGB team   "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me"3"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" D"$i" |"
+echo $i"|"$me"3"$i" |"$cy" REPORT TIKTOK WORK       "$i"|"$i"    |"$cy" D"$i" |"
 echo $i"|"$me"4"$i" |"$cy" REPORT FACEBOOK WORK     "$i"|"$i"    |"$cy" I"$i" |"
 echo $i"|"$me"5"$i" |"$cy" AUTO REACTION FACEBOOK   "$i"|"$i"    |"$cy" #"$i" |"
 echo $i"|"$me"6"$i" |"$cy" INFORMATION FACEBOOK     "$i"|"$i"    |"$cy" #"$i" |"
@@ -45,9 +45,10 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/
-cd fb-brute
-python2 brute.py
+git clone https://github.com/Felyxh/tiktok
+cd TMRB
+npm i
+node .
 fi
 
 if [ $pil = 4 ]
