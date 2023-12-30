@@ -35,7 +35,7 @@ echo $i"|"$me"11"$i"|"$cy" INSTALL BAHAN DULU       "$i"|"$i"    |"$cy" D"$i" |"
 echo $i"|"$me"12"$i"|"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" I"$i" |"
 echo $i"────────────────────────────────   ─────"
 echo
-echo $me"┌==="$bi"["$i"Silahkan kamu"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"Silahkan kamu"$bi"]"$me"======"$bi"["$i""masukan nomornya""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
