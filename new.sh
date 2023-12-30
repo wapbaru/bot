@@ -12,14 +12,14 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA CYBER SGB TEAM "$i"    |"
+echo $i" |"$cy"     INDONESIA CYBER SGB TEAM "$i"   |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" DEDI ROHADI  "$i"          |"
 echo $i" |"$pu" Contact WhatsApp :"$ku" 087774444221"$i" |"
 echo $i" |"$pu" Contact Email :"$ku" wwx@dr.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
-echo $i"────────────────────────────────    ─────"
+echo $i"────────────────────────────────   ─────"
 echo $i"|"$me"1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" D"$i" |"
 echo $i"|"$me"2"$i" |"$cy" BRUTEFORCE FB SGB team   "$i"|"$i"    |"$cy" E"$i" |"
 echo $i"|"$me"3"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" D"$i" |"
@@ -33,7 +33,7 @@ echo $i"|"$me"10"$i" |"$cy" PHISING FACEBOOK 3      "$i"|"$i"    |"$cy" H"$i" |"
 echo $i"────────────────────────────────"$i"   |"$cy" A"$i" |"
 echo $i"|"$me"11"$i" |"$cy" INSTALL BAHAN DULU      "$i"|"$i"    |"$cy" D"$i" |"
 echo $i"|"$me"12"$i" |"$cy" KELUAR/EXIT PROGRAM     "$i"|"$i"    |"$cy" I"$i" |"
-echo $i"────────────────────────────────    ─────"
+echo $i"────────────────────────────────   ─────"
 echo
 echo $me"┌==="$bi"["$i"Silahkan kamu"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
