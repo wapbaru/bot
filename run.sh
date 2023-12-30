@@ -15,7 +15,6 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo $i" |"$cy"     INDONESIA CYBER - SGB TEAM "$i" |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" wapbaru.com  "$i"          |"
-echo $i" |"$pu" Contact WhatsApp :"$ku" 087774444221"$i" |"
 echo $i" |"$pu" Contact Email :"$ku" wwx@dr.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
@@ -94,6 +93,6 @@ echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
 echo $ku"WhatsApp :"$i" 087774444221"
 sleep 2
-echo $pur">> Thanks Yang Sudah Support Saya <<"
+echo $pur">> Terimakasih Ya <<"
 exit
 fi
