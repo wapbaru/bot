@@ -8,7 +8,7 @@ $ apt upgrade
 $ pkg install git
 
 .
-$ git clone https://github.com/Felyxh/dedhack
+$ git clone https://github.com/Felyxh/hack
 
 .
 $ cd ded
