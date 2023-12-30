@@ -29,3 +29,12 @@ $ chmod +x *
 $ sh new.sh
 
 
+
+Clear style 
+
+cd /data/data/com.termux/files/usr/etc/
+ls
+rm -rf motd
+ls
+
+
