@@ -61,6 +61,16 @@ unzip Report.zip
 python2 Report.py
 fi
 
+if [ $pil = 9 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/Felyxh/lacak-ip
+cd lacak-ip
+chmod +x install
+sh install
+fi
 
 if [ $pil = 11 ]
 then
