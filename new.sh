@@ -12,7 +12,7 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA CYBER SGB TEAM "$i"        |"
+echo $i" |"$cy"     INDONESIA CYBER SGB TEAM "$i"    |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" DEDI ROHADI  "$i"          |"
 echo $i" |"$pu" Contact WhatsApp :"$ku" 087774444221"$i" |"
@@ -30,7 +30,7 @@ echo $i"|"$me"7"$i" |"$cy" BOT KOMEN FACEBOOK       "$i"|"$i"    |"$cy" #"$i" |"
 echo $i"|"$me"8"$i" |"$cy" AUTOLIKE FACEBOOK        "$i"|"$i"    |"$cy" R"$i" |"
 echo $i"|"$me"9"$i" |"$cy" PHISING FACEBOOK 1       "$i"|"$i"    |"$cy" O"$i" |"
 echo $i"|"$me"10"$i" |"$cy" PHISING FACEBOOK 3      "$i"|"$i"    |"$cy" H"$i" |"
-echo $i"────────────────────────────────"$i"    |"$cy" A"$i" |"
+echo $i"────────────────────────────────"$i"   |"$cy" A"$i" |"
 echo $i"|"$me"11"$i" |"$cy" INSTALL BAHAN DULU      "$i"|"$i"    |"$cy" D"$i" |"
 echo $i"|"$me"12"$i" |"$cy" KELUAR/EXIT PROGRAM     "$i"|"$i"    |"$cy" I"$i" |"
 echo $i"────────────────────────────────    ─────"
