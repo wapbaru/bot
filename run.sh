@@ -10,29 +10,26 @@ ku='\033[33;1m' #kuning
 
 echo
 echo
-echo
-     INDONESIA CYBER - SGB TEAM     
-     AUTHOR : wapbaru.com      
-echo
 
-echo $i" "$me"1"$i" "$ded" HACKING CLONE ACCOUNT        
-echo $i" "$me"2"$i" "$ded" BRUTEFORCE    SGB team       
-echo $i" "$me"3"$i" "$ded" REPORT TIKTOK WORK           
-echo $i" "$me"4"$i" "$ded" REPORT FACEBOOK WORK         
-echo $i" "$me"5"$i" "$ded" REPORT INSTAGRAM WORK        
-echo $i" "$me"6"$i" "$ded" INFORMATION ACCOUNT          
-echo $i" "$me"7"$i" "$ded" BOT OPEN SESI ACCOUNT        
-echo $i" "$me"8"$i" "$ded" BOT ATTACK PASSWORD          
-echo $i" "$me"9"$i" "$ded" TRACKING IP LOCATION         
-echo $i" "$me"10"$i" "$ded" PHISING ACCOUNT              
-echo   
-echo $i" "$me"11"$i" "$di" INSTALL BAHAN            
-echo $i" "$me"12"$i" "$di" KELUAR DARI PROGRAM          
-echo 
-echo
-echo $me" "$bi"["$i"Silahkan kamu"$bi"]"$me" "$bi"["$i""masukan nomornya""$bi"]"
-echo $me"¦"
-read -p" " pil
+
+ $i" "$me"1"$i" "$ded" HACKING CLONE ACCOUNT        
+ $i" "$me"2"$i" "$ded" BRUTEFORCE    SGB team       
+ $i" "$me"3"$i" "$ded" REPORT TIKTOK WORK           
+ $i" "$me"4"$i" "$ded" REPORT FACEBOOK WORK         
+ $i" "$me"5"$i" "$ded" REPORT INSTAGRAM WORK        
+ $i" "$me"6"$i" "$ded" INFORMATION ACCOUNT          
+ $i" "$me"7"$i" "$ded" BOT OPEN SESI ACCOUNT        
+ $i" "$me"8"$i" "$ded" BOT ATTACK PASSWORD          
+ $i" "$me"9"$i" "$ded" TRACKING IP LOCATION         
+ $i" "$me"10"$i" "$ded" PHISING ACCOUNT              
+   
+ $i" "$me"11"$i" "$di" INSTALL BAHAN            
+ $i" "$me"12"$i" "$di" KELUAR DARI PROGRAM          
+ 
+
+ $me" "$bi"["$i"Silahkan kamu"$bi"]"$me" "$bi"["$i""masukan nomornya""$bi"]"
+ $me"¦"
+read -p" #Enter " pil
 
 
 if [ $pil = 3 ]
