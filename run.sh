@@ -15,37 +15,37 @@ echo
 
 
 echo $i" "
-echo $i" "$me" 1"$i" "$cy" BRUTEFORCE FB PHP        "$i" "$i"    "$cy" "$i" "
-echo $i" "$me" 2"$i" "$cy" BRUTEFORCE FB BR1G4D3    "$i" "$i"    "$cy" "$i" "
-echo $i" "$me" 3"$i" "$cy" BRUTEFORCE FB iqbalz     "$i" "$i"    "$cy" "$i" "
-echo $i" "$me" 4"$i" "$cy" BRUTEFORCE FB MBF        "$i" "$i"    "$cy" "$i" "
-echo $i" "$me" 5"$i" "$cy" FACEBRUTE N1ght420       "$i" "$i"    "$cy" "$i" "
-echo $i" "$me" 6"$i" "$cy" BRUTEFORCE FB ( root )   "$i" "$i"    "$cy" "$i" "
+echo $i" "$me" 1"$i" "$cy" BRUTEFORCE FB SGB TEAM   "$i" "$i"    "$cy" "$i" "
+echo $i" "$me" 2"$i" "$cy" ATTACK PASS WIFI         "$i" "$i"    "$cy" "$i" "
+echo $i" "$me" 3"$i" "$cy" ATTACK PASS SOCIAL MEDIA "$i" "$i"    "$cy" "$i" "
+echo $i" "$me" 4"$i" "$cy" SADAP MESSAGE            "$i" "$i"    "$cy" "$i" "
+echo $i" "$me" 5"$i" "$cy" BOT FOLLOWER             "$i" "$i"    "$cy" "$i" "
+echo $i" "$me" 6"$i" "$cy" BOT VIEWER               "$i" "$i"    "$cy" "$i" "
 echo $i" "$i"    "$cy" "$i" "
-echo $i" "$me" 7"$i" "$cy" YAHOO CLONING FACEBOOK   "$i" "$i"    "
-echo $i" "$me" 8"$i" "$cy" PROFILE GUARD FACEBOOK   "$i" "$i"    "$cy" "$i" "
+echo $i" "$me" 7"$i" "$cy" YAHOO CLONING            "$i" "$i"    "
+echo $i" "$me" 8"$i" "$cy" PROFILE GUARD            "$i" "$i"    "$cy" "$i" "
 echo $i" "$me" 9"$i" "$cy" REPORT FACEBOOK WORK     "$i" "$i"    "$cy" "$i" "
-echo $i" "$me"10"$i" "$cy" AUTO REACTION FACEBOOK   "$i" "$i"    "$cy" "$i" "
-echo $i" "$me"11"$i" "$cy" INFORMATION FACEBOOK     "$i" "$i"    "$cy" "$i" "
-echo $i" "$me"12"$i" "$cy" BOT KOMEN FACEBOOK       "$i" "$i"    "$cy" "$i" "
-echo $i" "$me"13"$i" "$cy" AUTOLIKE FACEBOOK        "$i" "$i"    "$cy" "$i" "
+echo $i" "$me"10"$i" "$cy" REPORT TIKTOK WORK       "$i" "$i"    "$cy" "$i" "
+echo $i" "$me"11"$i" "$cy" REPORT INSTAGRAM         "$i" "$i"    "$cy" "$i" "
+echo $i" "$me"12"$i" "$cy" REPORT WHATSAPP          "$i" "$i"    "$cy" "$i" "
+echo $i" "$me"13"$i" "$cy" UNLOCK SESI SOCIAL MEDIA "$i" "$i"    "$cy" "$i" "
 echo $i" "$i"    "$cy" "$i" "
-echo $i" "$me"14"$i" "$cy" PHISING FACEBOOK 1       "$i" "$i"    "$cy" "$i" "
-echo $i" "$me"15"$i" "$cy" PHISING FACEBOOK 2       "$i" "$i"    "
-echo $i" "$me"16"$i" "$cy" PHISING FACEBOOK 3       "$i" "$i"    "$cy" "$i" "
-echo $i" "$me"17"$i" "$cy" PHISING FACEBOOK 4       "$i" "$i"    "$cy" "$i" "
+echo $i" "$me"14"$i" "$cy" PHISING SOCIAL MEDIA     "$i" "$i"    "$cy" "$i" "
+echo $i" "$me"15"$i" "$cy" CLOUDFLARE               "$i" "$i"    "
+echo $i" "$me"16"$i" "$cy" LACAK IP                 "$i" "$i"    "$cy" "$i" "
+echo $i" "$me"17"$i" "$cy" GENERATOR PASSWORD       "$i" "$i"    "$cy" "$i" "
 echo $i" "$i"    "$cy" "$i" "
-echo $i" "$me"01"$i" "$cy" INSTALL BAHAN DULU COEG  "$i" "$i"    "$cy" "$i" "
+echo $i" "$me"01"$i" "$cy" INSTALL BAHAN            "$i" "$i"    "$cy" "$i" "
 echo $i" "$me"02"$i" "$cy" KELUAR/EXIT PROGRAM      "$i" "$i"    "$cy" "$i" "
 echo $i" "
 echo
-echo $me"┌==="$bi"["$i"masukan"$bi"]"
+echo $me"┌==="$bi"["$i" masukan kode menu "$bi"]"
 echo $me"¦"
-read -p"└──www.wapbaru.com " pil
+read -p"└── www.wapbaru.com " pil
 
 
 
-if [ $pil = 1 ]
+if [ $pil = 10 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -56,7 +56,7 @@ npm i
 node .
 fi
 
-if [ $pil = 3 ]
+if [ $pil = 9 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -67,7 +67,7 @@ unzip Report.zip
 python2 Report.py
 fi
 
-if [ $pil = 4 ]
+if [ $pil = 16 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
