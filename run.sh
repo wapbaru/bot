@@ -66,10 +66,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Felyxh/lacak-ip
-cd lacak-ip
-chmod +x install
-sh install
+git clone https://github.com/Felyxh/ip
+cd ip  
+python ip.py  
 fi
 
 if [ $pil = 11 ]
