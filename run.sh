@@ -4,7 +4,7 @@ bi='\033[34;1m' #biru
 me='\033[32;1m' #ijo
 pu='\033[35;1m' #putih
 pur='\033[36;1m' #putih
-i='\033[31;1m' #merah
+i='\033[37;1m' #merah
 cy='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 
