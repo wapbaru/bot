@@ -2,7 +2,7 @@
 clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
-pur='\033[35;1m' #purple
+pur='\033[35;1m' #putih
 cy='\033[36;1m' #putih
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
@@ -13,8 +13,8 @@ echo
 echo
 
 echo $i"────────────────────────────────    ─────"
-echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
-echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    
+echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    
 echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
 echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
