@@ -1,10 +1,10 @@
 #usr/bin/bash
 clear
 bi='\033[34;1m' #biru
-i='\033[32;1m' #ijo
-pur='\033[35;1m' #putih
-cy='\033[36;1m' #putih
-me='\033[31;1m' #merah
+me='\033[32;1m' #ijo
+cy='\033[35;1m' #putih
+pur='\033[36;1m' #putih
+i='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 
@@ -39,7 +39,7 @@ echo $i" "$me"01"$i" "$cy" INSTALL BAHAN DULU COEG  "$i" "$i"    "$cy" "$i" "
 echo $i" "$me"02"$i" "$cy" KELUAR/EXIT PROGRAM      "$i" "$i"    "$cy" "$i" "
 echo $i" "
 echo
-echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"masukan"$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
