@@ -1,25 +1,48 @@
 #usr/bin/bash
 clear
+bi='\033[34;1m' #biru
+i='\033[32;1m' #ijo
+pur='\033[35;1m' #purple
+de='\033[36;1m' #putih
+me='\033[31;1m' #merah
+pu='\033[37;1m' #putih
+ku='\033[33;1m' #kuning
+
+echo
+echo
+echo
 
 
 
-1 HACKING CLONE ACCOUNT        
-2 BRUTEFORCE    SGB team       
-3 REPORT TIKTOK WORK           
-4 REPORT FACEBOOK WORK         
-5 REPORT INSTAGRAM WORK        
-6 INFORMATION ACCOUNT          
-7 BOT OPEN SESI ACCOUNT        
-8 BOT ATTACK PASSWORD          
-9 TRACKING IP LOCATION         
-10 PHISING ACCOUNT              
-11 INSTALL BAHAN            
-12 KELUAR DARI PROGRAM          
- 
+echo $i"────────────────────────────────"$i"    
+echo $i"|"$me" 1"$i" |"$de" BRUTEFORCE FB PHP        "$i"|"$i"    
+echo $i"|"$me" 2"$i" |"$de" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    
+echo $i"|"$me" 3"$i" |"$de" BRUTEFORCE FB iqbalz     "$i"|"$i"    
+echo $i"|"$me" 4"$i" |"$de" BRUTEFORCE FB MBF        "$i"|"$i"    
+echo $i"|"$me" 5"$i" |"$de" FACEBRUTE N1ght420       "$i"|"$i"    
+echo $i"|"$me" 6"$i" |"$de" BRUTEFORCE FB ( root )   "$i"|"$i"    
+echo $i"────────────────────────────────"$i"
+echo $i"|"$me" 7"$i" |"$de" YAHOO CLONING FACEBOOK   "$i"|"$i"   
+echo $i"|"$me" 8"$i" |"$de" PROFILE GUARD FACEBOOK   "$i"|"$i"    
+echo $i"|"$me" 9"$i" |"$de" REPORT FACEBOOK WORK     "$i"|"$i"    
+echo $i"|"$me"10"$i" |"$de" AUTO REACTION FACEBOOK   "$i"|"$i"    
+echo $i"|"$me"11"$i" |"$de" INFORMATION FACEBOOK     "$i"|"$i"    
+echo $i"|"$me"12"$i" |"$de" BOT KOMEN FACEBOOK       "$i"|"$i"    
+echo $i"|"$me"13"$i" |"$de" AUTOLIKE FACEBOOK        "$i"|"$i"    
+echo $i"────────────────────────────────"$i"    
+echo $i"|"$me"14"$i" |"$de" PHISING FACEBOOK 1       "$i"|"$i"  
+echo $i"|"$me"15"$i" |"$de" PHISING FACEBOOK 2       "$i"|"$i"   
+echo $i"|"$me"16"$i" |"$de" PHISING FACEBOOK 3       "$i"|"$i"    
+echo $i"|"$me"17"$i" |"$de" PHISING FACEBOOK 4       "$i"|"$i"    
+echo $i"────────────────────────────────"$i"    
+echo $i"|"$me"18"$i" |"$de" INSTALL BAHAN DULU COEG  "$i"|"$i"    
+echo $i"|"$me"19"$i" |"$de" KELUAR/EXIT PROGRAM      "$i"|"$i"    
+echo $i"────────────────────────────────"$i"
+echo
+echo $me" "$bi"["$i"silahkan"$bi"]"$me"======"$bi"["$i""masukan Nomornya""$bi"]"
+echo $me"¦"
+read -p" [ ]# " pil
 
- ["Silahkan kamu]["masukan nomornya"]
- 
-read -p" #Enter " pil
 
 
 if [ $pil = 3 ]
