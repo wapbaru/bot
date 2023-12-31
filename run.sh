@@ -11,32 +11,28 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA CYBER - SGB TEAM     "$i" |"
-echo $i" |"$me"─────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" wapbaru.com      "$i"          |"
- 
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────"$i"["$bi"•"$i"]"
+     INDONESIA CYBER - SGB TEAM     
+     AUTHOR : wapbaru.com      
 echo
 echo $i"────────────────────────────────   ─────"
-echo $i"|"$me"1"$i" |"$cy" HACKING CLONE ACCOUNT    "$i"|"$i"    
-echo $i"|"$me"2"$i" |"$cy" BRUTEFORCE    SGB team   "$i"|"$i"    
-echo $i"|"$me"3"$i" |"$cy" REPORT TIKTOK WORK       "$i"|"$i"    
-echo $i"|"$me"4"$i" |"$cy" REPORT FACEBOOK WORK     "$i"|"$i"    
-echo $i"|"$me"5"$i" |"$cy" REPORT INSTAGRAM WORK    "$i"|"$i"    
-echo $i"|"$me"6"$i" |"$cy" INFORMATION ACCOUNT      "$i"|"$i"    
-echo $i"|"$me"7"$i" |"$cy" BOT OPEN SESI ACCOUNT    "$i"|"$i"    
-echo $i"|"$me"8"$i" |"$cy" BOT ATTACK PASSWORD      "$i"|"$i"    
-echo $i"|"$me"9"$i" |"$cy" TRACKING IP LOCATION     "$i"|"$i"    
-echo $i"|"$me"10"$i"|"$cy" PHISING ACCOUNT          "$i"|"$i"    
+echo $i" "$me"1"$i" "$cy" HACKING CLONE ACCOUNT        
+echo $i" "$me"2"$i" "$cy" BRUTEFORCE    SGB team       
+echo $i" "$me"3"$i" "$cy" REPORT TIKTOK WORK           
+echo $i" "$me"4"$i" "$cy" REPORT FACEBOOK WORK         
+echo $i" "$me"5"$i" "$cy" REPORT INSTAGRAM WORK        
+echo $i" "$me"6"$i" "$cy" INFORMATION ACCOUNT          
+echo $i" "$me"7"$i" "$cy" BOT OPEN SESI ACCOUNT        
+echo $i" "$me"8"$i" "$cy" BOT ATTACK PASSWORD          
+echo $i" "$me"9"$i" "$cy" TRACKING IP LOCATION         
+echo $i" "$me"10"$i" "$cy" PHISING ACCOUNT              
 echo $i"────────────────────────────────"$i"   
-echo $i"|"$me"11"$i"|"$cy" INSTALL BAHAN            "$i"|"$i"
-echo $i"|"$me"12"$i"|"$cy" KELUAR DARI PROGRAM      "$i"|"$i"    
+echo $i" "$me"11"$i" "$cy" INSTALL BAHAN            
+echo $i" "$me"12"$i" "$cy" KELUAR DARI PROGRAM          
 echo $i"────────────────────────────────   ─────"
 echo
-echo $me"┌==="$bi"["$i"Silahkan kamu"$bi"]"$me"======"$bi"["$i""masukan nomornya""$bi"]"
+echo $me" "$bi"["$i"Silahkan kamu"$bi"]"$me" "$bi"["$i""masukan nomornya""$bi"]"
 echo $me"¦"
-read -p"└──# " pil
+read -p" " pil
 
 
 if [ $pil = 3 ]
