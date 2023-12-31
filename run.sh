@@ -11,17 +11,7 @@ ku='\033[33;1m' #kuning
 echo
 echo
 echo
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
-echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
-echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo
+
 echo $i"────────────────────────────────    ─────"
 echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
 echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
