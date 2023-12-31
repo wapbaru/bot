@@ -3,9 +3,9 @@ clear
 bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
 pur='\033[35;1m' #purple
-cy='\033[36;1m' #cyan
-me='\033[31;1m' #merah
-pu='\033[37;1m' #putih
+ded='\033[36;1m' #putih
+di='\033[31;1m' #merah
+me='\033[37;1m' #hijau
 ku='\033[33;1m' #kuning
 
 echo
@@ -14,21 +14,21 @@ echo
      INDONESIA CYBER - SGB TEAM     
      AUTHOR : wapbaru.com      
 echo
-echo $i"────────────────────────────────   ─────"
-echo $i" "$me"1"$i" "$cy" HACKING CLONE ACCOUNT        
-echo $i" "$me"2"$i" "$cy" BRUTEFORCE    SGB team       
-echo $i" "$me"3"$i" "$cy" REPORT TIKTOK WORK           
-echo $i" "$me"4"$i" "$cy" REPORT FACEBOOK WORK         
-echo $i" "$me"5"$i" "$cy" REPORT INSTAGRAM WORK        
-echo $i" "$me"6"$i" "$cy" INFORMATION ACCOUNT          
-echo $i" "$me"7"$i" "$cy" BOT OPEN SESI ACCOUNT        
-echo $i" "$me"8"$i" "$cy" BOT ATTACK PASSWORD          
-echo $i" "$me"9"$i" "$cy" TRACKING IP LOCATION         
-echo $i" "$me"10"$i" "$cy" PHISING ACCOUNT              
-echo $i"────────────────────────────────"$i"   
-echo $i" "$me"11"$i" "$cy" INSTALL BAHAN            
-echo $i" "$me"12"$i" "$cy" KELUAR DARI PROGRAM          
-echo $i"────────────────────────────────   ─────"
+
+echo $i" "$me"1"$i" "$ded" HACKING CLONE ACCOUNT        
+echo $i" "$me"2"$i" "$ded" BRUTEFORCE    SGB team       
+echo $i" "$me"3"$i" "$ded" REPORT TIKTOK WORK           
+echo $i" "$me"4"$i" "$ded" REPORT FACEBOOK WORK         
+echo $i" "$me"5"$i" "$ded" REPORT INSTAGRAM WORK        
+echo $i" "$me"6"$i" "$ded" INFORMATION ACCOUNT          
+echo $i" "$me"7"$i" "$ded" BOT OPEN SESI ACCOUNT        
+echo $i" "$me"8"$i" "$ded" BOT ATTACK PASSWORD          
+echo $i" "$me"9"$i" "$ded" TRACKING IP LOCATION         
+echo $i" "$me"10"$i" "$ded" PHISING ACCOUNT              
+echo   
+echo $i" "$me"11"$i" "$di" INSTALL BAHAN            
+echo $i" "$me"12"$i" "$di" KELUAR DARI PROGRAM          
+echo 
 echo
 echo $me" "$bi"["$i"Silahkan kamu"$bi"]"$me" "$bi"["$i""masukan nomornya""$bi"]"
 echo $me"¦"
