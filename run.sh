@@ -41,7 +41,7 @@ echo $i" "
 echo
 echo $me"┌==="$bi"["$i"masukan"$bi"]"
 echo $me"¦"
-read -p"└──# " pil
+read -p"└──www.wapbaru.com " pil
 
 
 
