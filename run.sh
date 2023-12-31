@@ -2,10 +2,10 @@
 clear
 bi='\033[34;1m' #biru
 me='\033[32;1m' #ijo
-cy='\033[35;1m' #putih
+pu='\033[35;1m' #putih
 pur='\033[36;1m' #putih
 i='\033[31;1m' #merah
-pu='\033[37;1m' #putih
+cy='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 
 echo
