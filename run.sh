@@ -1,34 +1,24 @@
 #usr/bin/bash
 clear
-bi='\033[34;1m' #biru
-i='\033[32;1m' #ijo
-pur='\033[35;1m' #purple
-ded='\033[36;1m' #putih
-di='\033[31;1m' #merah
-me='\033[37;1m' #hijau
-ku='\033[33;1m' #kuning
-
-echo
-echo
 
 
- $i" "$me"1"$i" "$ded" HACKING CLONE ACCOUNT        
- $i" "$me"2"$i" "$ded" BRUTEFORCE    SGB team       
- $i" "$me"3"$i" "$ded" REPORT TIKTOK WORK           
- $i" "$me"4"$i" "$ded" REPORT FACEBOOK WORK         
- $i" "$me"5"$i" "$ded" REPORT INSTAGRAM WORK        
- $i" "$me"6"$i" "$ded" INFORMATION ACCOUNT          
- $i" "$me"7"$i" "$ded" BOT OPEN SESI ACCOUNT        
- $i" "$me"8"$i" "$ded" BOT ATTACK PASSWORD          
- $i" "$me"9"$i" "$ded" TRACKING IP LOCATION         
- $i" "$me"10"$i" "$ded" PHISING ACCOUNT              
-   
- $i" "$me"11"$i" "$di" INSTALL BAHAN            
- $i" "$me"12"$i" "$di" KELUAR DARI PROGRAM          
+
+1 HACKING CLONE ACCOUNT        
+2 BRUTEFORCE    SGB team       
+3 REPORT TIKTOK WORK           
+4 REPORT FACEBOOK WORK         
+5 REPORT INSTAGRAM WORK        
+6 INFORMATION ACCOUNT          
+7 BOT OPEN SESI ACCOUNT        
+8 BOT ATTACK PASSWORD          
+9 TRACKING IP LOCATION         
+10 PHISING ACCOUNT              
+11 INSTALL BAHAN            
+12 KELUAR DARI PROGRAM          
  
 
- $me" "$bi"["$i"Silahkan kamu"$bi"]"$me" "$bi"["$i""masukan nomornya""$bi"]"
- $me"¦"
+ ["Silahkan kamu]["masukan nomornya"]
+ 
 read -p" #Enter " pil
 
 
