@@ -50,7 +50,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Felyxh/tiktok
+git clone https://github.com/wapbaru/tiktok
 cd TMRB
 npm i
 node .
@@ -61,7 +61,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Felyxh/Report
+git clone https://github.com/wapbaru/Report
 cd Report
 unzip Report.zip
 python2 Report.py
@@ -72,7 +72,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Felyxh/ip
+git clone https://github.com/wapbaru/ip
 cd ip  
 python ip.py  
 fi
