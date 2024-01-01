@@ -41,7 +41,7 @@ echo $i" "
 echo
 echo $me"┌==="$bi"["$i" masukan kode menu "$bi"]"
 echo $me"¦"
-read -p"└── www.wapbaru.com " pil
+read -p"└── www.wapbaru.com " [ pil ]
 
 
 
