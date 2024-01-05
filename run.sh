@@ -33,7 +33,7 @@ echo $i" "$i"    "$cy" "$i" "
 echo $i" "$me"14"$i" "$cy" PHISING SOCIAL MEDIA     "$i" "$i"    "$cy" "$i" "
 echo $i" "$me"15"$i" "$cy" CLOUDFLARE               "$i" "$i"    "
 echo $i" "$me"16"$i" "$cy" LACAK IP                 "$i" "$i"    "$cy" "$i" "
-echo $i" "$me"17"$i" "$cy" GENERATOR PASSWORD       "$i" "$i"    "$cy" "$i" "
+echo $i" "$me"17"$i" "$cy" DUMP DATA FACEBOOK       "$i" "$i"    "$cy" "$i" "
 echo $i" "$i"    "$cy" "$i" "
 echo $i" "$me"01"$i" "$cy" INSTALL BAHAN            "$i" "$i"    "$cy" "$i" "
 echo $i" "$me"02"$i" "$cy" KELUAR/EXIT PROGRAM      "$i" "$i"    "$cy" "$i" "
@@ -75,6 +75,17 @@ sleep 1
 git clone https://github.com/Felyxh/ip
 cd ip  
 python ip.py  
+fi
+if [ $pil = 17 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+$ git clone https://github.com/wapbaru/dump-data
+
+cd dump-data  
+
+$ python dump.py
 fi
 
 if [ $pil = 01 ]
