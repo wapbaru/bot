@@ -11,7 +11,7 @@ $ pkg install git
 $ git clone https://github.com/Felyxh/hack
 
 .
-$ cd ded
+$ cd bot
 
 .
 $ pip install requests
